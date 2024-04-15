@@ -1,0 +1,20 @@
+{
+  "name": "ayesha_aziz_currency_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "currency.js",
+  "type": "module",
+  "bin":"currency.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AYESHA",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
